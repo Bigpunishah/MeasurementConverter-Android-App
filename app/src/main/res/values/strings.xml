@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MeasurementConverterApp</string>
+    <string name="conversionTextViewString">Conversion</string>
+    <string name="milesString">Miles</string>
+    <string name="inchesString">Inches</string>
+    <string name="centimetersString">Centimeters</string>
+    <string name="kilometersString">Kilometers</string>
+    <string name="resultTextViewString">0</string>
+    <string name="myNameStringTextView">Vikel Cunningham</string>
+    <string name="enterValueStringEditText">Enter Value</string>
+    <string-array name="conversion_split_array">
+        <item>Miles to Kilometers</item>
+        <item>Kilometers to Miles</item>
+        <item>Inches to Centimeters</item>
+        <item>Centimeters to Inches</item>
+    </string-array>
+</resources>
